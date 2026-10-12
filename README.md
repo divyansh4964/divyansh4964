@@ -1,101 +1,118 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090d1a,35:102a56,70:075985,100:06b6d4&text=DIVYANSH%20KUMAR&fontSize=43&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20%7C%20Software%20Engineering%20%7C%20AI&descAlignY=59&descSize=15" alt="Divyansh Kumar animated banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:111827,50:172554,75:312e81,100:0891b2&text=DIVYANSH%20KUMAR&fontColor=E0F2FE&fontSize=46&fontAlignY=36&desc=EXPLORING%20THE%20UNIVERSE%20OF%20CODE&descAlignY=59&descSize=15&animation=twinkling" alt="Cosmic animated profile header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=B.Tech+CSE+Student+%40+Poornima+College;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;Building+Projects+%7C+Learning+Every+Day;Exploring+Software+Engineering+and+AI" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2300&pause=650&color=67E8F9&center=true&vCenter=true&width=800&lines=INITIALIZING+DIVYANSH.DEV...;B.Tech+CSE+%7C+Software+Engineering;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;Building+Projects.+Learning.+Evolving.;Welcome+to+my+digital+universe." alt="Animated futuristic terminal introduction"/>
 
 <br/>
 
 <a href="https://github.com/divyansh4964">
-<img src="https://img.shields.io/badge/GitHub-divyansh4964-111827?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/divyansh-kumar-898184321/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
 </a>
 <a href="mailto:divyanshkumar.e@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-TRANSMIT-0B1220?style=for-the-badge&logo=gmail&logoColor=FB7185" alt="Email"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=divyansh4964&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-164E63?style=flat-square" alt="Learning and building"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%7C%20AI%20%7C%20DATA-312E81?style=flat-square" alt="Areas of interest"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-Hi, I'm **Divyansh Kumar**, a Computer Science and Engineering student at **Poornima College of Engineering, Jaipur**.
-
-I'm interested in software development, problem-solving, databases, AI and building practical applications.
-
-- 🎓 **Education:** B.Tech CSE, expected graduation May 2028
-- 💻 **Languages:** Java, Python, C, C++ and JavaScript
-- 🌐 **Web development:** HTML, CSS and JavaScript
-- ⚙️ **Backend:** Python, Flask and REST API fundamentals
-- 🗄️ **Database:** MySQL, SQL and JDBC
-- 🧠 **Core CS:** OOP, DSA, DBMS, OS and Computer Networks coursework
-- 🏭 **Training:** CSIR-CEERI Industrial IoT and WUWB Python Programming
-- 📜 **Innovation:** Co-inventor contribution to a smart waste monitoring patent application
-
-> I believe in learning by building, improving through practice and creating technology that solves real problems.
-
----
-
-## ⚡ Technical Focus
-
 <div align="center">
 
-| 💻 Software Engineering | 🌐 Web Development |
-|:---:|:---:|
-| OOP · DSA · Problem Solving | HTML · CSS · JavaScript |
-| Clean Code · Git · GitHub | Responsive UI · Web Fundamentals |
+### `01 // TRANSMISSION RECEIVED`
 
-| 🗄️ Backend & Databases | 🤖 AI & Data |
-|:---:|:---:|
-| Python · Flask · REST APIs | Machine Learning Fundamentals |
-| MySQL · SQL · JDBC | Data Analysis · Generative AI Learning |
+**Welcome to my digital universe.**
+
+*Every line of code is another step into the unknown.*
 
 </div>
 
+## 👨‍🚀 About the Developer
+
+I'm **Divyansh Kumar**, a B.Tech Computer Science and Engineering student at **Poornima College of Engineering, Jaipur, India**.
+
+I'm building my foundation in software engineering through programming, database applications, web development and practical projects. I'm also exploring AI, data science, cloud computing and industrial IoT.
+
+| Signal | Details |
+|---|---|
+| 🎓 Education | B.Tech — Computer Science & Engineering |
+| 🏫 Institution | Poornima College of Engineering |
+| 💻 Core languages | Java, Python, C, C++, JavaScript |
+| 🌐 Web foundations | HTML, CSS, JavaScript |
+| ⚙️ Backend | Python, Flask, REST API fundamentals |
+| 🗄️ Database | MySQL, SQL, JDBC |
+| 🏭 Training | CSIR-CEERI Industrial IoT; WUWB Python Programming |
+| 🎯 Mission | Strengthen engineering fundamentals and build practical software |
+
+> `MISSION.LOG`: Learn continuously. Build responsibly. Turn ideas into working systems.
+
 ---
 
-## 🧰 Tech Stack
+## 🛰️ Technology Constellation
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=650&color=38BDF8&center=true&vCenter=true&width=550&lines=Programming+Languages;Frontend+Development;Backend+%26+Databases;AI+%26+Data+Science;Cloud+%26+DevOps" alt="Animated tech stack categories"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2000&pause=550&color=A5B4FC&center=true&vCenter=true&width=700&lines=%3E+PROGRAMMING+LANGUAGES;%3E+FRONTEND+SYSTEMS;%3E+BACKEND+%26+DATABASES;%3E+AI+%26+DATA+SCIENCE;%3E+CLOUD+%26+DEVOPS;%3E+TOOLS+%26+WORKFLOWS" alt="Animated technology constellation categories"/>
+
+</div>
 
 ### 💻 Programming Languages
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js&theme=dark" alt="Java Python C C++ JavaScript"/>
 
-### 🌐 Frontend Development
+</div>
+
+### 🌐 Frontend Systems
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
 
-### ⚙️ Backend Development
+</div>
+
+### ⚙️ Backend Systems
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask"/>
 
-### 🗄️ Databases
+</div>
+
+### 🗄️ Database Systems
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
 
-### 🛠️ Development Tools
+</div>
+
+### 🛠️ Developer Tools
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Git GitHub VS Code IntelliJ IDEA"/>
 
 </div>
 
-**Currently strengthening:** Java, DSA, SQL, backend development and project building.
+**Current engineering focus:** Java · DSA · SQL · backend fundamentals · project development.
 
 ---
 
-## 🧭 Technical Domains
+## 🌌 Exploration Modules
 
 <details open>
-<summary><b>💼 Software Engineering</b></summary>
+<summary><b>💻 Module 01 — Software Engineering</b></summary>
 
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
@@ -104,16 +121,18 @@ I'm interested in software development, problem-solving, databases, AI and build
 - REST API Development
 - Backend System Design Fundamentals
 - Database Design
-- Git & GitHub
+- Version Control with Git & GitHub
 - Clean Code Principles
+- Testing and debugging fundamentals
 
 </details>
 
 <details>
-<summary><b>🌐 Full-Stack Development</b></summary>
+<summary><b>🌐 Module 02 — Full-Stack Development</b></summary>
 
 **Frontend**
-- HTML5 and CSS3
+- HTML5
+- CSS3
 - JavaScript (ES6+)
 - Responsive UI Design
 - React.js — learning roadmap
@@ -122,7 +141,8 @@ I'm interested in software development, problem-solving, databases, AI and build
 - Tailwind CSS — learning roadmap
 
 **Backend**
-- Python and Flask
+- Python
+- Flask
 - REST APIs
 - Node.js — learning roadmap
 - Express.js — learning roadmap
@@ -131,7 +151,8 @@ I'm interested in software development, problem-solving, databases, AI and build
 - Firebase Authentication — future exploration
 
 **Database**
-- MySQL and SQL
+- MySQL
+- SQL
 - PostgreSQL — future exploration
 - MongoDB — future exploration
 - Supabase — future exploration
@@ -140,7 +161,7 @@ I'm interested in software development, problem-solving, databases, AI and build
 </details>
 
 <details>
-<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
+<summary><b>🤖 Module 03 — Artificial Intelligence & Machine Learning</b></summary>
 
 - Supervised Learning
 - Model Evaluation
@@ -152,31 +173,32 @@ I'm interested in software development, problem-solving, databases, AI and build
 - Generative AI
 - Prompt Engineering
 - Large Language Models (LLMs)
-- Responsible AI and AI Ethics
+- Responsible AI
+- AI Ethics
 
 </details>
 
 <details>
-<summary><b>📊 Data Science & Analytics</b></summary>
+<summary><b>📊 Module 04 — Data Science & Analytics</b></summary>
 
 - Data Cleaning
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Statistical Analysis Fundamentals
-- Pandas — learning and practice
-- NumPy — learning and practice
-- Matplotlib — learning and practice
+- Pandas
+- NumPy
+- Matplotlib
 - Scikit-learn — learning roadmap
 
 </details>
 
 <details>
-<summary><b>☁️ Cloud Computing, DevOps & Security</b></summary>
+<summary><b>☁️ Module 05 — Cloud, DevOps & Security</b></summary>
 
-**Cloud Technologies**
+**Cloud**
 - Cloud Computing Fundamentals
-- AWS Fundamentals — learning roadmap
+- AWS — learning roadmap
 - Microsoft Azure — learning roadmap
 - Microsoft Azure AI — learning roadmap
 - Firebase and Vercel — future exploration
@@ -185,21 +207,21 @@ I'm interested in software development, problem-solving, databases, AI and build
 - Docker — learning roadmap
 - Kubernetes — learning roadmap
 - GitHub Actions and CI/CD — learning roadmap
-- Deployment Workflows — learning roadmap
+- Deployment workflows — learning roadmap
 
 **Security**
 - Cloud Security Fundamentals
 - Identity & Access Management (IAM)
-- Governance, Risk & Compliance (GRC) Concepts
+- Governance, Risk & Compliance (GRC) concepts
 - Secure Coding and Privacy
 - Responsible AI Practices
 
 </details>
 
 <details>
-<summary><b>📡 Industrial IoT & Embedded Systems</b></summary>
+<summary><b>📡 Module 06 — Industrial IoT & Embedded Systems</b></summary>
 
-Topics related to my CSIR-CEERI industrial training:
+Topics connected with my CSIR-CEERI training:
 
 - IoT Architecture
 - Sensor Integration Fundamentals
@@ -215,14 +237,15 @@ Topics related to my CSIR-CEERI industrial training:
 </details>
 
 <details>
-<summary><b>🧰 Tools & Productivity</b></summary>
+<summary><b>🧰 Module 07 — Tools & Productivity</b></summary>
 
 **Development tools**
-- Git and GitHub
+- Git
+- GitHub
 - Visual Studio Code
 - IntelliJ IDEA
 
-**Additional tools to explore**
+**Tools to explore**
 - GitHub Copilot
 - Microsoft Copilot
 - Anaconda
@@ -234,7 +257,7 @@ Topics related to my CSIR-CEERI industrial training:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Deployed Projects
 
 <table>
 <tr>
@@ -242,23 +265,23 @@ Topics related to my CSIR-CEERI industrial training:
 
 ### 🌊 Seismic Virtual Lab
 
-**Python · Flask · HTML · CSS · JavaScript**
+`PYTHON` `FLASK` `WEB`
 
-A virtual lab project focused on seismic-wave and earthquake simulation.
+A web-based virtual lab for seismic-wave and earthquake simulation.
 
 - Interactive simulation controls
-- Web-based user interface
-- Flask backend
 - Educational visualisation
+- Flask backend
+- Browser-based interface
 
-[View Seismic-Insight →](https://github.com/divyansh4964/Seismic-Insight)
+[OPEN REPOSITORY ↗](https://github.com/divyansh4964/Seismic-Insight)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 Student Management System
 
-**Java · JDBC · MySQL**
+`JAVA` `JDBC` `MYSQL`
 
 A console-based application for managing student records.
 
@@ -267,7 +290,7 @@ A console-based application for managing student records.
 - PreparedStatement
 - Database connectivity
 
-[View Repository →](https://github.com/divyansh4964/Student-Management-System-Java-MySQL)
+[OPEN REPOSITORY ↗](https://github.com/divyansh4964/Student-Management-System-Java-MySQL)
 
 </td>
 </tr>
@@ -276,27 +299,27 @@ A console-based application for managing student records.
 
 ### ♻️ Smart Waste Monitoring
 
-**Smart Detection · System Design**
+`SMART DETECTION` `SYSTEM DESIGN`
 
-A project focused on smart waste monitoring and detection.
+A waste-monitoring project associated with my patent contribution.
 
 - Problem analysis
 - System design
 - Technical documentation
-- Patent contribution
+- Co-inventor contribution
 
-**Patent Application:** 202611002943
+**Patent application:** 202611002943
 
 </td>
 <td width="50%" valign="top">
 
 ### 📘 Value Added Course
 
-**HTML**
+`HTML`
 
-A public repository available on my GitHub profile.
+A public coursework repository available on my GitHub profile.
 
-[View Repository →](https://github.com/divyansh4964/Value-Added-Course)
+[OPEN REPOSITORY ↗](https://github.com/divyansh4964/Value-Added-Course)
 
 </td>
 </tr>
@@ -304,10 +327,16 @@ A public repository available on my GitHub profile.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Milestones
 
-- 📜 **Patent contribution:** Co-inventor, one of seven, for *Waste Monitoring Through Smart Detection System*; Application No. 202611002943.
-- 🎓 **Academic performance:** Approximately 9.0/10 GPA as reported in my resume.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=700&color=FBBF24&center=true&vCenter=true&width=650&lines=INNOVATION+%7C+LEARNING+%7C+EXECUTION;Building+skills+one+milestone+at+a+time" alt="Animated achievement heading"/>
+
+</div>
+
+- 📜 **Patent contribution:** Co-inventor, one of seven, for *Waste Monitoring Through Smart Detection System*; Indian Patent Application No. 202611002943.
+- 🎓 **Academic performance:** Approximately 9.0/10 GPA, as reported in my resume.
 - 🏅 **Smart India Hackathon 2024:** Selected in the institutional internal selection to represent the college team.
 - 🥈 **AADHAR'25 Tech Fest:** Second position in Open Innovation at Poornima College of Engineering.
 
@@ -316,6 +345,7 @@ A public repository available on my GitHub profile.
 ## 🏭 Training & Experience
 
 ### Advance Industrial Internet of Things (IIoT) Training
+
 **CSIR–CEERI, Jaipur Campus | March–April 2026**
 
 - Government-funded skill development training.
@@ -324,28 +354,27 @@ A public repository available on my GitHub profile.
 - Python scripting and embedded systems fundamentals.
 
 ### Python Programming Industrial Training
+
 **WUWB Technologies Pvt. Ltd., Jaipur | June–July 2025**
 
-- Python programming training.
+- Python programming industrial training.
 - Practical assignments and programming exercises.
 - Debugging and problem-solving practice.
 
 ---
 
-## 📜 Certifications & Credentials
+## 📜 Credentials & Learning
 
-| Credential | Issuer | Result / Period |
+| Credential | Issuer | Details |
 |---|---|---|
-| Advance Industrial IoT Training | CSIR-CEERI, Jaipur | Mar–Apr 2026 |
-| NPTEL Elite — Enhancing Soft Skills & Personality | IIT Kanpur, Ministry of Education | 67%, Feb–Apr 2026 |
-| Python Programming Industrial Training | WUWB Technologies Pvt. Ltd. | Jun–Jul 2025 |
-| 2nd Position — Open Innovation | AADHAR'25 Tech Fest | 2025 |
+| Advance Industrial IoT Training | CSIR-CEERI, Jaipur | March–April 2026 |
+| NPTEL Elite — Enhancing Soft Skills & Personality | IIT Kanpur, Ministry of Education | 67%, February–April 2026 |
+| Python Programming Industrial Training | WUWB Technologies Pvt. Ltd. | June–July 2025 |
+| Second Position — Open Innovation | AADHAR'25 Tech Fest | 2025 |
 
-### 📚 Learning Platforms
+**Learning platforms to explore:** Microsoft Learn · Kaggle · LinkedIn Learning · Google Cloud · NPTEL · Intellipaat · W3Schools · MindSeekers.
 
-Microsoft Learn · Kaggle · LinkedIn Learning · Google Cloud · NPTEL · Intellipaat · W3Schools · MindSeekers
-
-*These are learning platforms and exploration areas, not additional certifications claimed as earned.*
+*The platforms above are not additional certifications claimed as earned.*
 
 ---
 
@@ -361,7 +390,7 @@ Jaipur, Rajasthan, India
 
 ---
 
-## 📈 GitHub Analytics
+## 📡 GitHub Telemetry
 
 <div align="center">
 
@@ -370,94 +399,86 @@ Jaipur, Rajasthan, India
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=divyansh4964&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=divyansh4964&theme=tokyonight&hide_border=true" alt="GitHub streak statistics"/>
 
 </div>
 
-<sub>Stats depend on public repository activity and third-party service availability.</sub>
+<sub>Analytics depend on public repository activity and external service availability.</sub>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Matrix
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=divyansh4964&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=divyansh4964&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake — Live Activity
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/divyansh4964/divyansh4964/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<img width="100%" src="https://raw.githubusercontent.com/divyansh4964/divyansh4964/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
 
 </div>
 
 ---
 
-## 💻 Competitive Programming
+## 🧠 Competitive Programming
 
-I'm working on strengthening my problem-solving skills and DSA fundamentals.
+My current focus is on strengthening problem-solving skills and DSA fundamentals.
 
-**Learning roadmap**
-- Arrays and Strings
-- Searching and Sorting
-- Linked Lists, Stacks and Queues
-- Recursion and Backtracking
-- Trees and Graphs
-- Greedy Algorithms
-- Dynamic Programming
-- Sliding Window and Binary Search
+| Current roadmap | Next areas |
+|---|---|
+| Arrays & Strings | Trees & Graphs |
+| Searching & Sorting | Recursion & Backtracking |
+| Linked Lists | Greedy Algorithms |
+| Stacks & Queues | Dynamic Programming |
+| Binary Search | Sliding Window |
 
-[Explore my repositories →](https://github.com/divyansh4964?tab=repositories)
+[EXPLORE MY REPOSITORIES ↗](https://github.com/divyansh4964?tab=repositories)
 
 ---
 
-## 🎯 Goals
+## 🎯 Mission Objectives
 
-- Strengthen DSA and core computer-science concepts.
-- Build practical and well-documented projects.
-- Improve code quality, debugging and testing.
-- Explore open-source collaboration.
-- Prepare for software engineering internships.
-- Learn new technologies through consistent practice.
+- [ ] Strengthen Data Structures & Algorithms.
+- [ ] Build practical, well-documented projects.
+- [ ] Improve testing, debugging and code quality.
+- [ ] Explore collaborative and open-source development.
+- [ ] Prepare for software engineering internships.
+- [ ] Maintain consistent learning and project practice.
 
 ---
 
-## 🤝 Open to Collaboration
+## 🤝 Collaboration Dock
 
 Interested in collaborating on:
 
-- 💻 Software Engineering
-- 🌐 Full-Stack and Backend Development
-- 🤖 AI/ML and Data-Driven Applications
-- 📊 Data Science and Visualization
-- ☁️ Cloud and Developer Tools
-- 📡 IoT and Automation
-- 🌍 Open Source and Hackathons
+`SOFTWARE ENGINEERING` · `FULL-STACK` · `AI/ML` · `DATA SCIENCE` · `CLOUD` · `IoT` · `OPEN SOURCE` · `HACKATHONS`
 
 ---
 
-## 📬 Let's Connect
+## 📬 Establish Connection
 
 <div align="center">
 
 <a href="https://github.com/divyansh4964">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-TRANSMIT-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/divyansh-kumar-898184321/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
 </a>
 <a href="mailto:divyanshkumar.e@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-SEND-111827?style=for-the-badge&logo=gmail&logoColor=FB7185" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Learn+continuously.+Build+with+purpose.;Let's+create+something+meaningful." alt="Animated closing message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=TRANSMISSION+COMPLETE.;Thanks+for+exploring+my+universe.;Keep+building.+Keep+evolving." alt="Animated closing message"/>
 
 </div>
 
@@ -465,8 +486,8 @@ Interested in collaborating on:
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile!**
+`END OF TRANSMISSION`
 
-*Learn continuously. Build thoughtfully. Keep improving.*
+*Code with purpose. Explore the unknown. Keep evolving.*
 
 </div>
