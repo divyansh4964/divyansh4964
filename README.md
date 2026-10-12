@@ -1,12 +1,11 @@
-
 <!-- =========================================================
      DIVYANSH KUMAR | GITHUB PROFILE README
-     Design: Professional headings + animated visual elements
+     Design: Professional headings + animated space visuals
 ========================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,25:111827,55:1e1b4b,80:312e81,100:0891b2&text=DIVYANSH%20KUMAR&fontColor=E0F2FE&fontSize=43&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20DATA&descAlignY=59&descSize=15&animation=twinkling" alt="Animated profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=DIVYANSH%20KUMAR&fontSize=48&fontColor=E0F2FE&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20DATA&descAlignY=65&descSize=15&color=0:020617,25:111827,50:1E1B4B,75:312E81,100:0891B2&stroke=67E8F9&animation=twinkling" alt="Animated cosmic space banner"/>
 
 <h1>Hi 👋, I'm Divyansh Kumar</h1>
 
@@ -582,17 +581,31 @@ A coursework repository containing material related to HTML and web fundamentals
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<table>
+<tr>
+<td width="33.33%" align="center" valign="top">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=divyansh4964&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+**GitHub Stats**
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh4964&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used public repository languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=divyansh4964&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub statistics"/>
 
-<br/><br/>
+</td>
+<td width="33.33%" align="center" valign="top">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=divyansh4964&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+**Top Languages**
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh4964&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Most-used public repository languages"/>
+
+</td>
+<td width="33.33%" align="center" valign="top">
+
+**Contribution Streak**
+
+<img src="https://streak-stats.demolab.com?user=divyansh4964&theme=tokyonight&hide_border=true" width="100%" alt="GitHub contribution streak"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -802,57 +815,3 @@ I'm interested in learning and collaborating on projects related to:
 ---
 
 ## 📫 Contact Me
-
-<div align="center">
-
-<a href="mailto:divyanshkumar.e@gmail.com">
-<img src="https://img.shields.io/badge/Email-divyanshkumar.e%40gmail.com-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact email"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/divyansh-kumar-898184321/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn contact"/>
-</a>
-
-</div>
-
-**Location:** Jaipur, Rajasthan, India
-
-**Interested in:** Software engineering internships, backend development, full-stack learning, technical projects and open-source collaboration.
-
----
-
-## 📊 Profile Summary
-
-<div align="center">
-
-| Category | Details |
-|:---|:---|
-| Education | B.Tech CSE — Poornima College of Engineering |
-| Programming | Java, Python, C, C++, JavaScript |
-| Frontend | HTML, CSS, JavaScript |
-| Backend | Flask, JDBC |
-| Database | MySQL, SQL |
-| Projects | Seismic Insight, Student Management System, Smart Waste Monitoring |
-| Recognition | AADHAR'25 Open Innovation — Second Position |
-| Training | CSIR-CEERI Industrial IoT, WUWB Python |
-| Current Goal | Strengthen software engineering skills and prepare for internships |
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,25:111827,55:1e1b4b,80:312e81,100:0891b2" alt="Animated footer banner"/>
-
-### ⭐ Thanks for visiting my profile!
-
-If you find my work interesting, explore my repositories and share your feedback.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=600&lines=Code+with+purpose.;Learn+continuously.;Build+useful+solutions.;Keep+improving." alt="Animated closing message"/>
-
-<sub>Learning through code · Building through curiosity · Growing through consistency</sub>
-
-</div>
