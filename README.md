@@ -1,263 +1,357 @@
 
-<div align="center">
+<p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:111827,50:172554,75:312e81,100:0891b2&text=DIVYANSH%20KUMAR&fontColor=E0F2FE&fontSize=46&fontAlignY=36&desc=EXPLORING%20THE%20UNIVERSE%20OF%20CODE&descAlignY=59&descSize=15&animation=twinkling" alt="Cosmic animated profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,25:111827,55:1e1b4b,80:312e81,100:0891b2&text=DIVYANSH%20KUMAR&fontColor=E0F2FE&fontSize=43&fontAlignY=37&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20DATA&descAlignY=59&descSize=15&animation=twinkling" width="100%" alt="Animated space-inspired banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2300&pause=650&color=67E8F9&center=true&vCenter=true&width=800&lines=INITIALIZING+DIVYANSH.DEV...;B.Tech+CSE+%7C+Software+Engineering;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;Building+Projects.+Learning.+Evolving.;Welcome+to+my+digital+universe." alt="Animated futuristic terminal introduction"/>
+</p>
 
-<br/>
+<h1 align="center">Hi 👋, I'm Divyansh Kumar</h1>
 
-<a href="https://github.com/divyansh4964">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/divyansh-kumar-898184321/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
-</a>
-<a href="mailto:divyanshkumar.e@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-TRANSMIT-0B1220?style=for-the-badge&logo=gmail&logoColor=FB7185" alt="Email"/>
-</a>
+<h3 align="center">
+Computer Science Student • Software Development • AI & Data Science Enthusiast
+</h3>
 
-<br/><br/>
+<p align="center">
+💻 Building Software • 🤖 Exploring AI • ☁️ Learning Cloud Technologies
+</p>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-164E63?style=flat-square" alt="Learning and building"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%7C%20AI%20%7C%20DATA-312E81?style=flat-square" alt="Areas of interest"/>
+<p align="center">
+🏆 Innovation • 📜 Patent Contribution • 🚀 Aspiring Software Engineer
+</p>
 
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+universe;Building+projects+one+commit+at+a+time;Learning+%7C+Building+%7C+Improving" alt="Animated introduction"/>
+</p>
 
----
-
-<div align="center">
-
-### `01 // TRANSMISSION RECEIVED`
-
-**Welcome to my digital universe.**
-
-*Every line of code is another step into the unknown.*
-
-</div>
-
-## 👨‍🚀 About the Developer
-
-I'm **Divyansh Kumar**, a B.Tech Computer Science and Engineering student at **Poornima College of Engineering, Jaipur, India**.
-
-I'm building my foundation in software engineering through programming, database applications, web development and practical projects. I'm also exploring AI, data science, cloud computing and industrial IoT.
-
-| Signal | Details |
-|---|---|
-| 🎓 Education | B.Tech — Computer Science & Engineering |
-| 🏫 Institution | Poornima College of Engineering |
-| 💻 Core languages | Java, Python, C, C++, JavaScript |
-| 🌐 Web foundations | HTML, CSS, JavaScript |
-| ⚙️ Backend | Python, Flask, REST API fundamentals |
-| 🗄️ Database | MySQL, SQL, JDBC |
-| 🏭 Training | CSIR-CEERI Industrial IoT; WUWB Python Programming |
-| 🎯 Mission | Strengthen engineering fundamentals and build practical software |
-
-> `MISSION.LOG`: Learn continuously. Build responsibly. Turn ideas into working systems.
+<p align="center">
+<i>"I believe in learning by building and creating technology that solves real-world problems."</i>
+</p>
 
 ---
 
-## 🛰️ Technology Constellation
+# 👨‍💻 About Me
 
-<div align="center">
+I'm a **Computer Science and Engineering undergraduate** passionate about software development, backend systems, databases, AI and practical engineering projects.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2000&pause=550&color=A5B4FC&center=true&vCenter=true&width=700&lines=%3E+PROGRAMMING+LANGUAGES;%3E+FRONTEND+SYSTEMS;%3E+BACKEND+%26+DATABASES;%3E+AI+%26+DATA+SCIENCE;%3E+CLOUD+%26+DEVOPS;%3E+TOOLS+%26+WORKFLOWS" alt="Animated technology constellation categories"/>
+My interests span **Software Engineering**, **Artificial Intelligence**, **Machine Learning**, **Full-Stack Development**, **Data Science**, and **Cloud Technologies**.
 
-</div>
+Currently, I'm focused on strengthening my expertise in **Java, Data Structures & Algorithms, SQL, Backend Development, and Full-Stack Fundamentals** while building practical projects and preparing for software engineering internship opportunities.
 
-### 💻 Programming Languages
+- 🎓 B.Tech CSE student at Poornima College of Engineering, Jaipur.
+- 💻 Programming with Java, Python, C, C++ and JavaScript.
+- 🌐 Learning and building with HTML, CSS and JavaScript.
+- ⚙️ Working with Python, Flask and MySQL.
+- 📡 Industrial IoT training exposure through CSIR-CEERI.
+- 📜 Co-inventor contribution to a smart waste-monitoring patent application.
 
-<div align="center">
+---
 
+# 🏆 Achievements
+
+🏅 **Institutional SIH 2024 Selection** — Selected in the internal college selection.
+
+📜 **Patent Contributor** — *Waste Monitoring Through Smart Detection System*.
+
+🥈 **Second Position — Open Innovation**, AADHAR'25 Tech Fest, Poornima College of Engineering.
+
+🎓 **NPTEL Elite Certification** — Enhancing Soft Skills & Personality, IIT Kanpur, 67%.
+
+🏭 **Industrial IoT Training** — CSIR-CEERI, Jaipur Campus.
+
+> Achievement details are based on my resume. The SIH achievement refers to institutional selection, not a national-level win.
+
+---
+
+# 🔭 Currently Building
+
+- 🚀 Improving Java and database application development.
+- 🌐 Exploring complete web application development.
+- ⚙️ Strengthening backend and API fundamentals.
+- 📊 Exploring data-driven software ideas.
+- 📡 Applying Industrial IoT learning to practical project concepts.
+
+---
+
+# 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced Java programming
+- Backend application development
+- SQL and database design
+- REST API fundamentals
+- Full-Stack Development
+- AI and Machine Learning fundamentals
+- Git and collaborative development workflows
+
+---
+
+# ⚡ Technical Strengths
+
+- 💻 Software Engineering
+- 🌐 Full-Stack Development Fundamentals
+- ⚙️ Backend Development
+- 🤖 Artificial Intelligence & Machine Learning — learning
+- 📊 Data Science & Analytics — learning
+- 🧠 Data Structures & Algorithms — actively strengthening
+- 🗄️ Database Design & SQL
+- ☁️ Cloud Computing — learning roadmap
+- 🚀 Generative AI & Prompt Engineering — exploration
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js&theme=dark" alt="Java Python C C++ JavaScript"/>
+</p>
 
-</div>
+## 🌐 Frontend Development
 
-### 🌐 Frontend Systems
-
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
+</p>
 
-</div>
+## ⚙️ Backend Development
 
-### ⚙️ Backend Systems
-
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask"/>
+</p>
 
-</div>
+## 🤖 Artificial Intelligence & Data Science
 
-### 🗄️ Database Systems
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+</p>
 
-<div align="center">
+**Learning and exploration areas**
 
+- Pandas
+- NumPy
+- Matplotlib
+- Machine Learning fundamentals
+- Explainable AI
+- Generative AI
+- Prompt Engineering
+- Data Analysis
+- Data Visualization
+
+## 🗄️ Databases
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+</p>
 
-</div>
+- SQL
+- MySQL
+- JDBC
+- CRUD Operations
+- DAO Pattern
+- PreparedStatement
 
-### 🛠️ Developer Tools
+## ☁️ Cloud & DevOps
 
-<div align="center">
+**Learning roadmap**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Git GitHub VS Code IntelliJ IDEA"/>
+- Cloud Computing Fundamentals
+- AWS Fundamentals
+- Microsoft Azure Fundamentals
+- GitHub Actions and CI/CD
+- Docker
+- Kubernetes
+- Vercel Deployment
 
-</div>
+## 🛠️ Tools
 
-**Current engineering focus:** Java · DSA · SQL · backend fundamentals · project development.
+- Git
+- GitHub
+- Visual Studio Code
+- IntelliJ IDEA
+- MySQL Workbench
+- GitHub Copilot — exploration
+- Microsoft Copilot — exploration
+- Anaconda — exploration
+- PyCharm — exploration
 
 ---
 
-## 🌌 Exploration Modules
+# 💼 Engineering Expertise
 
-<details open>
-<summary><b>💻 Module 01 — Software Engineering</b></summary>
+## 💻 Software Engineering
 
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Problem Solving
 - Software Development Life Cycle (SDLC)
-- REST API Development
+- REST API Fundamentals
 - Backend System Design Fundamentals
 - Database Design
 - Version Control with Git & GitHub
 - Clean Code Principles
-- Testing and debugging fundamentals
 
-</details>
+---
 
-<details>
-<summary><b>🌐 Module 02 — Full-Stack Development</b></summary>
+## 🌐 Full-Stack Development
 
-**Frontend**
+### Frontend
+
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 - Responsive UI Design
+- TypeScript — learning roadmap
 - React.js — learning roadmap
 - Next.js — learning roadmap
-- TypeScript — learning roadmap
 - Tailwind CSS — learning roadmap
 
-**Backend**
+### Backend
+
 - Python
 - Flask
-- REST APIs
+- REST API Fundamentals
 - Node.js — learning roadmap
 - Express.js — learning roadmap
 - Django — learning roadmap
-- Authentication concepts — learning roadmap
-- Firebase Authentication — future exploration
+- Authentication Concepts — learning roadmap
 
-**Database**
+### Database
+
 - MySQL
 - SQL
+- JDBC
+- CRUD Operations
 - PostgreSQL — future exploration
 - MongoDB — future exploration
 - Supabase — future exploration
-- Firebase — future exploration
 
-</details>
+---
 
-<details>
-<summary><b>🤖 Module 03 — Artificial Intelligence & Machine Learning</b></summary>
+# 🤖 Artificial Intelligence & Data Science
+
+## Machine Learning
 
 - Supervised Learning
 - Model Evaluation
 - Feature Engineering
 - Machine Learning Explainability
-- TensorFlow — learning roadmap
-- PyTorch — learning roadmap
-- OpenCV — learning roadmap
-- Generative AI
-- Prompt Engineering
-- Large Language Models (LLMs)
-- Responsible AI
-- AI Ethics
+- TensorFlow Fundamentals — learning roadmap
+- PyTorch Fundamentals — learning roadmap
+- OpenCV Basics — learning roadmap
 
-</details>
+---
 
-<details>
-<summary><b>📊 Module 04 — Data Science & Analytics</b></summary>
+## Data Science
 
 - Data Cleaning
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Statistical Analysis Fundamentals
+
+### Libraries
+
 - Pandas
 - NumPy
 - Matplotlib
 - Scikit-learn — learning roadmap
 
-</details>
+---
 
-<details>
-<summary><b>☁️ Module 05 — Cloud, DevOps & Security</b></summary>
+## Artificial Intelligence
 
-**Cloud**
-- Cloud Computing Fundamentals
-- AWS — learning roadmap
-- Microsoft Azure — learning roadmap
-- Microsoft Azure AI — learning roadmap
-- Firebase and Vercel — future exploration
-
-**DevOps**
-- Docker — learning roadmap
-- Kubernetes — learning roadmap
-- GitHub Actions and CI/CD — learning roadmap
-- Deployment workflows — learning roadmap
-
-**Security**
-- Cloud Security Fundamentals
-- Identity & Access Management (IAM)
-- Governance, Risk & Compliance (GRC) concepts
-- Secure Coding and Privacy
-- Responsible AI Practices
-
-</details>
-
-<details>
-<summary><b>📡 Module 06 — Industrial IoT & Embedded Systems</b></summary>
-
-Topics connected with my CSIR-CEERI training:
-
-- IoT Architecture
-- Sensor Integration Fundamentals
-- Embedded Systems Fundamentals
-- Industrial Automation
-- IoT Communication Protocols
-- Sensor-Based Monitoring
-- Automated Control Concepts
-- Python Scripting for IoT Data
-- PCB Design Fundamentals
-- Android-Based IoT Interface Concepts
-
-</details>
-
-<details>
-<summary><b>🧰 Module 07 — Tools & Productivity</b></summary>
-
-**Development tools**
-- Git
-- GitHub
-- Visual Studio Code
-- IntelliJ IDEA
-
-**Tools to explore**
-- GitHub Copilot
-- Microsoft Copilot
-- Anaconda
-- PyCharm
-- Excel with Copilot
-- AI-Assisted Development Workflows
-
-</details>
+- Artificial Intelligence Fundamentals
+- Generative AI
+- Prompt Engineering
+- Large Language Models (LLMs)
+- Responsible AI
+- AI Ethics
+- AI-Assisted Productivity Workflows
 
 ---
 
-## 🚀 Deployed Projects
+# ☁️ Cloud & Security
+
+## Cloud Technologies
+
+- Cloud Computing Fundamentals
+- Microsoft Azure AI — learning roadmap
+- AWS Fundamentals — learning roadmap
+- Firebase — future exploration
+- Vercel Deployment — future exploration
+
+---
+
+## Security
+
+- Cloud Security Fundamentals
+- Identity & Access Management
+- Governance, Risk & Compliance (GRC) Concepts
+- Secure Coding Fundamentals
+- Privacy and Responsible AI Practices
+
+---
+
+# 📜 Professional Certifications
+
+### NPTEL
+
+- **Enhancing Soft Skills & Personality**
+- Issuer: IIT Kanpur, Ministry of Education, Government of India
+- Certification: Elite
+- Score: 67%
+
+---
+
+### CSIR-CEERI
+
+- **Advance Industrial Internet of Things (IIoT) Training**
+- CSIR–Central Electronics Engineering Research Institute, Jaipur Campus
+- March–April 2026
+
+---
+
+### WUWB Technologies
+
+- **Python Programming Industrial Training**
+- WUWB Technologies Pvt. Ltd., Jaipur
+- June–July 2025
+
+---
+
+### Additional Learning
+
+My future learning interests include:
+
+- Microsoft Learn
+- Kaggle
+- LinkedIn Learning
+- Google Cloud Learning Resources
+- NPTEL
+- W3Schools
+
+*These platforms are learning resources, not additional certifications claimed as earned.*
+
+---
+
+# 🏅 Core Domains
+
+- ☑️ Java, Python, C and C++
+- ☑️ HTML, CSS and JavaScript
+- ☑️ MySQL and SQL
+- ☑️ JDBC and CRUD application development
+- ☑️ Git and GitHub
+- ☑️ Industrial IoT training
+- ☑️ Soft Skills & Professional Communication — NPTEL Elite credential
+- ◻️ Artificial Intelligence — learning roadmap
+- ◻️ Machine Learning — learning roadmap
+- ◻️ Data Science — learning roadmap
+- ◻️ Cloud Computing — learning roadmap
+- ◻️ Generative AI — learning roadmap
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -265,61 +359,72 @@ Topics connected with my CSIR-CEERI training:
 
 ### 🌊 Seismic Virtual Lab
 
-`PYTHON` `FLASK` `WEB`
+**Python · Flask · HTML · CSS · JavaScript**
 
-A web-based virtual lab for seismic-wave and earthquake simulation.
+A web-based virtual lab focused on seismic-wave and earthquake simulation.
+
+#### Features
 
 - Interactive simulation controls
-- Educational visualisation
-- Flask backend
 - Browser-based interface
+- Flask backend
+- Educational visualization
 
-[OPEN REPOSITORY ↗](https://github.com/divyansh4964/Seismic-Insight)
+[View Repository →](https://github.com/divyansh4964/Seismic-Insight)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🎓 Student Management System
 
-`JAVA` `JDBC` `MYSQL`
+**Java · JDBC · MySQL**
 
 A console-based application for managing student records.
+
+#### Highlights
 
 - CRUD operations
 - DAO design pattern
 - PreparedStatement
 - Database connectivity
 
-[OPEN REPOSITORY ↗](https://github.com/divyansh4964/Student-Management-System-Java-MySQL)
+[View Repository →](https://github.com/divyansh4964/Student-Management-System-Java-MySQL)
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### ♻️ Smart Waste Monitoring
+### ♻️ Smart Waste Monitoring System
 
-`SMART DETECTION` `SYSTEM DESIGN`
+**Smart Detection · System Design**
 
-A waste-monitoring project associated with my patent contribution.
+A smart waste-monitoring project associated with my patent contribution.
+
+#### Highlights
 
 - Problem analysis
 - System design
 - Technical documentation
 - Co-inventor contribution
 
-**Patent application:** 202611002943
+**Patent Application No. 202611002943**
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📘 Value Added Course
 
-`HTML`
+**HTML**
 
-A public coursework repository available on my GitHub profile.
+A coursework repository available on my GitHub profile.
 
-[OPEN REPOSITORY ↗](https://github.com/divyansh4964/Value-Added-Course)
+[View Repository →](https://github.com/divyansh4964/Value-Added-Course)
 
 </td>
 </tr>
@@ -327,167 +432,212 @@ A public coursework repository available on my GitHub profile.
 
 ---
 
-## 🏆 Achievements & Milestones
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=divyansh4964&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=700&color=FBBF24&center=true&vCenter=true&width=650&lines=INNOVATION+%7C+LEARNING+%7C+EXECUTION;Building+skills+one+milestone+at+a+time" alt="Animated achievement heading"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh4964&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used public repository languages"/>
+</p>
 
-</div>
-
-- 📜 **Patent contribution:** Co-inventor, one of seven, for *Waste Monitoring Through Smart Detection System*; Indian Patent Application No. 202611002943.
-- 🎓 **Academic performance:** Approximately 9.0/10 GPA, as reported in my resume.
-- 🏅 **Smart India Hackathon 2024:** Selected in the institutional internal selection to represent the college team.
-- 🥈 **AADHAR'25 Tech Fest:** Second position in Open Innovation at Poornima College of Engineering.
-
----
-
-## 🏭 Training & Experience
-
-### Advance Industrial Internet of Things (IIoT) Training
-
-**CSIR–CEERI, Jaipur Campus | March–April 2026**
-
-- Government-funded skill development training.
-- IoT architecture, sensor integration and industrial automation.
-- Industrial monitoring and automated-control case studies.
-- Python scripting and embedded systems fundamentals.
-
-### Python Programming Industrial Training
-
-**WUWB Technologies Pvt. Ltd., Jaipur | June–July 2025**
-
-- Python programming industrial training.
-- Practical assignments and programming exercises.
-- Debugging and problem-solving practice.
+<p align="center">
+<img width="80%" src="https://streak-stats.demolab.com/?user=divyansh4964&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
 ---
 
-## 📜 Credentials & Learning
+# 📈 Contribution Graph
 
-| Credential | Issuer | Details |
-|---|---|---|
-| Advance Industrial IoT Training | CSIR-CEERI, Jaipur | March–April 2026 |
-| NPTEL Elite — Enhancing Soft Skills & Personality | IIT Kanpur, Ministry of Education | 67%, February–April 2026 |
-| Python Programming Industrial Training | WUWB Technologies Pvt. Ltd. | June–July 2025 |
-| Second Position — Open Innovation | AADHAR'25 Tech Fest | 2025 |
-
-**Learning platforms to explore:** Microsoft Learn · Kaggle · LinkedIn Learning · Google Cloud · NPTEL · Intellipaat · W3Schools · MindSeekers.
-
-*The platforms above are not additional certifications claimed as earned.*
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh4964&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>
+</p>
 
 ---
 
-## 🎓 Education
+# 🏆 GitHub Trophies
 
-**Poornima College of Engineering**  
-Jaipur, Rajasthan, India
-
-- Degree: Bachelor of Technology (B.Tech)
-- Branch: Computer Science & Engineering
-- Expected graduation: May 2028
-- Academic GPA: Approximately 9.0/10, as reported in my resume
+<p align="center">
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=divyansh4964&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub trophies"/>
+</p>
 
 ---
 
-## 📡 GitHub Telemetry
+# 🐍 Contribution Snake
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyansh4964&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh4964&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used public repository languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=divyansh4964&theme=tokyonight&hide_border=true" alt="GitHub streak statistics"/>
-
-</div>
-
-<sub>Analytics depend on public repository activity and external service availability.</sub>
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/divyansh4964/divyansh4964/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+</p>
 
 ---
 
-## 🏆 Achievement Matrix
+# 💻 Competitive Programming
 
-<div align="center">
+I'm actively strengthening my Data Structures & Algorithms fundamentals.
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=divyansh4964&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
+### 🎯 Problem-Solving Roadmap
 
-</div>
+- Arrays and Strings
+- Searching and Sorting
+- Trees and Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Binary Search
+- Sliding Window
+- Linked Lists
+- Recursion and Backtracking
 
----
+[Explore my GitHub repositories →](https://github.com/divyansh4964?tab=repositories)
 
-## 🐍 Contribution Snake — Live Activity
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/divyansh4964/divyansh4964/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
-
-</div>
-
----
-
-## 🧠 Competitive Programming
-
-My current focus is on strengthening problem-solving skills and DSA fundamentals.
-
-| Current roadmap | Next areas |
-|---|---|
-| Arrays & Strings | Trees & Graphs |
-| Searching & Sorting | Recursion & Backtracking |
-| Linked Lists | Greedy Algorithms |
-| Stacks & Queues | Dynamic Programming |
-| Binary Search | Sliding Window |
-
-[EXPLORE MY REPOSITORIES ↗](https://github.com/divyansh4964?tab=repositories)
+**LeetCode:** Add your actual profile URL and verified solved count when ready.
 
 ---
 
-## 🎯 Mission Objectives
+# 🎯 2026 Goals
 
-- [ ] Strengthen Data Structures & Algorithms.
-- [ ] Build practical, well-documented projects.
-- [ ] Improve testing, debugging and code quality.
-- [ ] Explore collaborative and open-source development.
-- [ ] Prepare for software engineering internships.
-- [ ] Maintain consistent learning and project practice.
-
----
-
-## 🤝 Collaboration Dock
-
-Interested in collaborating on:
-
-`SOFTWARE ENGINEERING` · `FULL-STACK` · `AI/ML` · `DATA SCIENCE` · `CLOUD` · `IoT` · `OPEN SOURCE` · `HACKATHONS`
+- 🚀 Strengthen DSA and core CS fundamentals.
+- ⭐ Build consistent GitHub contributions.
+- 📦 Develop practical, well-documented projects.
+- 🌍 Explore open-source contributions.
+- 🏆 Prepare for software engineering internships.
+- 💼 Build scalable and useful software systems.
 
 ---
 
-## 📬 Establish Connection
+# 🎓 Education
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 Poornima College of Engineering
+
+**Bachelor of Technology (B.Tech)**
+
+**Computer Science & Engineering**
+
+📍 Jaipur, Rajasthan, India
+
+Expected graduation: May 2028
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 Career Objective
+
+Seeking opportunities to contribute as a **Software Engineering Intern** while continuously improving programming fundamentals, building practical applications and solving real-world problems.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌍 Let's Connect
+
+<p align="center">
 
 <a href="https://github.com/divyansh4964">
-<img src="https://img.shields.io/badge/GITHUB-TRANSMIT-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/divyansh-kumar-898184321/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:divyanshkumar.e@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-SEND-111827?style=for-the-badge&logo=gmail&logoColor=FB7185" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=TRANSMISSION+COMPLETE.;Thanks+for+exploring+my+universe.;Keep+building.+Keep+evolving." alt="Animated closing message"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 🤝 Open to Collaborate
 
-`END OF TRANSMISSION`
+I'm interested in collaborating on projects related to:
 
-*Code with purpose. Explore the unknown. Keep evolving.*
+- 🤖 Artificial Intelligence
+- 💻 Software Engineering
+- 🌐 Full-Stack Development
+- 📊 Data Science
+- ☁️ Cloud Computing
+- 🚀 Open Source
+- 📱 Developer Tools
+- 📡 IoT and Automation
+- 🔥 Hackathons and Innovation Challenges
 
-</div>
+---
+
+# 📈 Current Focus
+
+- 🚀 **Building**
+  - Java and database applications
+  - Practical full-stack projects
+  - Backend-focused software
+
+- 📚 **Learning**
+  - DSA
+  - System Design Fundamentals
+  - Backend Engineering
+  - Cloud Architecture Fundamentals
+
+- 🎯 **Goal**
+  - Become a stronger software engineer and prepare for internship opportunities.
+
+---
+
+# 💡 Fun Facts
+
+- 🧠 I enjoy understanding how software works.
+- 🤖 I'm interested in AI-powered applications.
+- 📚 I believe in continuous learning.
+- 💻 I learn by building and improving projects.
+- 🌱 I'm always exploring new technologies.
+
+---
+
+# 📫 Contact Me
+
+📧 **Email:** divyanshkumar.e@gmail.com
+
+📍 **Location:** Jaipur, Rajasthan, India
+
+💼 **Interested in:**
+
+- Software Engineering Internships
+- Backend Development
+- Full-Stack Development
+- AI/ML Learning Projects
+- Open Source Collaboration
+- Technical Projects
+
+---
+
+# 📊 Profile Summary
+
+- 👨‍💻 Computer Science Student
+- 💻 Software Development Learner
+- 🤖 AI & Data Science Enthusiast
+- 🌐 Full-Stack Development Learner
+- 📡 Industrial IoT Training
+- 📜 Patent Contributor
+- 🚀 Aspiring Software Engineer
+
+---
+
+<p align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my work, consider ⭐ starring my repositories.
+
+Let's build something meaningful together!
+
+</p>
+
+---
+
+<p align="center">
+<i>"Code with purpose. Learn continuously. Build solutions that create real-world impact."</i>
+</p>
