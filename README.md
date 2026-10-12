@@ -692,9 +692,12 @@ I'm actively strengthening my **Data Structures & Algorithms** fundamentals and 
 ## 🎓 Education
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=EDUCATION%20%26%20CAREER&fontSize=24&fontColor=E0F2FE&color=0:111827,50:312e81,100:0891b2" alt="Education banner"/>
-
+  <img
+    src="./assets/poornima-campus.jpg"
+    alt="Poornima College of Engineering, Jaipur"
+    width="85%"
+  />
+  <p><b>Poornima College of Engineering, Jaipur</b></p>
 </div>
 
 ### Poornima College of Engineering
