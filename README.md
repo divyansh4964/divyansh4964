@@ -1,3 +1,4 @@
+
 <!-- =========================================================
      DIVYANSH KUMAR | GITHUB PROFILE README
      Design: Professional headings + animated space visuals
@@ -815,3 +816,57 @@ I'm interested in learning and collaborating on projects related to:
 ---
 
 ## 📫 Contact Me
+
+<div align="center">
+
+<a href="mailto:divyanshkumar.e@gmail.com">
+<img src="https://img.shields.io/badge/Email-divyanshkumar.e%40gmail.com-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact email"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/divyansh-kumar-898184321/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn contact"/>
+</a>
+
+</div>
+
+**Location:** Jaipur, Rajasthan, India
+
+**Interested in:** Software engineering internships, backend development, full-stack learning, technical projects and open-source collaboration.
+
+---
+
+## 📊 Profile Summary
+
+<div align="center">
+
+| Category | Details |
+|:---|:---|
+| Education | B.Tech CSE — Poornima College of Engineering |
+| Programming | Java, Python, C, C++, JavaScript |
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Flask, JDBC |
+| Database | MySQL, SQL |
+| Projects | Seismic Insight, Student Management System, Smart Waste Monitoring |
+| Recognition | AADHAR'25 Open Innovation — Second Position |
+| Training | CSIR-CEERI Industrial IoT, WUWB Python |
+| Current Goal | Strengthen software engineering skills and prepare for internships |
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,25:111827,55:1e1b4b,80:312e81,100:0891b2" alt="Animated footer banner"/>
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my work interesting, explore my repositories and share your feedback.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=600&lines=Code+with+purpose.;Learn+continuously.;Build+useful+solutions.;Keep+improving." alt="Animated closing message"/>
+
+<sub>Learning through code · Building through curiosity · Growing through consistency</sub>
+
+</div>
