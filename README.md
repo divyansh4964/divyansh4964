@@ -582,31 +582,25 @@ A coursework repository containing material related to HTML and web fundamentals
 
 ## 📊 GitHub Analytics
 
-<table>
-<tr>
-<td width="33.33%" align="center" valign="top">
+<div align="center">
 
-**GitHub Stats**
+### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=divyansh4964&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub statistics"/>
 
-</td>
-<td width="33.33%" align="center" valign="top">
+<br/><br/>
 
-**Top Languages**
+### 💻 Top Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh4964&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Most-used public repository languages"/>
 
-</td>
-<td width="33.33%" align="center" valign="top">
+<br/><br/>
 
-**Contribution Streak**
+### 🔥 Contribution Streak
 
 <img src="https://streak-stats.demolab.com?user=divyansh4964&theme=tokyonight&hide_border=true" width="100%" alt="GitHub contribution streak"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
